@@ -1,0 +1,10 @@
+{
+    "accounts": [
+        {
+            "accountName": "Steam Username",
+            "password": "Password",
+            "sharedSecret": "Shared Secret",
+            "identitySecret": "Optional Identity Secret"
+        }
+    ]
+}
