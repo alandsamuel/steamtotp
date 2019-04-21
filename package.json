@@ -1,0 +1,27 @@
+{
+  "name": "steamtotp",
+  "version": "1.0.0",
+  "description": "steam code generator using steamtotp lib",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alandsamuel/steamtotp.git"
+  },
+  "keywords": [
+    "steamtotp"
+  ],
+  "author": "AST",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alandsamuel/steamtotp/issues"
+  },
+  "homepage": "https://github.com/alandsamuel/steamtotp#readme",
+  "dependencies": {
+    "@sulphate/steamlogin": "^1.1.1",
+    "memory-cache": "^0.2.0",
+    "steam-totp": "^2.1.0"
+  }
+}
